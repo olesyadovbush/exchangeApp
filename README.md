@@ -12,4 +12,4 @@ To start this app you should clone this repository and open it in some IDE like 
 Into the item Terminal on the top of navigation run app using command 
 # npm start
 
-:tada After that the application should be run in a new window of your browser.
+:tada: After that the application should be run in a new window of your browser.
